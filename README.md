@@ -21,8 +21,9 @@ Premium watch-themed stopwatch with lap tracking, keyboard shortcuts, and glass-
 ![Lap Tracking](lap-tracking.png)
 ![Mobile View](mobile-view.png)
 
-## 🔗 Live Demo
-https://Chaithanya8861.github.io/PRODIGY_WD_02/
-
+## 🚀 Live Demo
+[View Live Demo]([https://YOUR-USERNAME.github.io/PRODIGY_WD_01](https://chaithanya8861.github.io/PRODIGY_WD_02/
+))
+ 
 ## 👨‍💻 Author
 **Chaithanya** - Prodigy Infotech Intern
