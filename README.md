@@ -17,9 +17,17 @@ Premium watch-themed stopwatch with lap tracking, keyboard shortcuts, and glass-
 ## 🖼️ Screenshots
 
 ![Main View](main-view.png)
+*Stopwatch at initial state*
+
 ![Running Mode](running-mode.png)
+*Timer running with pulse animation*
+
 ![Lap Tracking](lap-tracking.png)
+*Lap records in chronograph register*
+
 ![Mobile View](mobile-view.png)
+*Responsive design on smartphone*
+
 
 ## 🚀 Live Demo
 [View Live Demo](https://chaithanya8861.github.io/PRODIGY_WD_02/)
